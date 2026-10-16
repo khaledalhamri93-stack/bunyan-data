@@ -1,0 +1,1786 @@
+{
+ "settings": {
+  "currency": "د.ب",
+  "pin": "",
+  "people": [
+   "المالك",
+   "المقاول"
+  ]
+ },
+ "projects": [
+  {
+   "id": "k770eig8",
+   "name": "بيت مدينة عيسى 1",
+   "type": "renov",
+   "location": "مدينة عيسى",
+   "start": "2026-03-15",
+   "end": "",
+   "by": "المالك",
+   "steps": [
+    {
+     "id": "9rdt1kua",
+     "title": "المعاينة وتقييم الحالة",
+     "date": "2026-03-18",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "mzd126zo",
+     "title": "إعداد خطة الترميم والميزانية",
+     "date": "2026-03-25",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "q2xscinh",
+     "title": "الهدم والإزالة",
+     "date": "2026-04-01",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "orn02equ",
+     "title": "معالجة الهيكل والتشققات",
+     "date": "2026-04-15",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "n69o0cfv",
+     "title": "تجديد التمديدات",
+     "date": "2026-04-29",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "0v176dc5",
+     "title": "العزل المائي والحراري",
+     "date": "2026-05-06",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "e25deizd",
+     "title": "اللياسة والدهان",
+     "date": "2026-05-20",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "3swbt1kl",
+     "title": "الأرضيات والبلاط",
+     "date": "2026-05-30",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "jnzuac92",
+     "title": "التركيبات والإنارة",
+     "date": "2026-06-06",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    },
+    {
+     "id": "2fd2sw6g",
+     "title": "التنظيف والتسليم",
+     "date": "2026-06-09",
+     "done": false,
+     "doneDate": "",
+     "note": "",
+     "by": "المالك"
+    }
+   ],
+   "ledgers": [
+    {
+     "id": "s23k5v81",
+     "name": "المقاول",
+     "total": 0,
+     "note": "",
+     "entries": [
+      {
+       "id": "5d38flai",
+       "name": "التكسير والتنظيف",
+       "date": "2026-03-15",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "2mmbwd6x",
+       "name": "المقاول",
+       "date": "2026-03-19",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "gxg8b811",
+       "name": "المقاول",
+       "date": "2026-03-27",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "9pfsmdzx",
+       "name": "المقاول",
+       "date": "2026-03-30",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "roqprehf",
+       "name": "المقاول",
+       "date": "2026-04-02",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ah3c5ze9",
+       "name": "المقاول",
+       "date": "2026-04-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "2luypx1y",
+       "name": "المقاول",
+       "date": "2026-04-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "mtp3akmo",
+       "name": "المقاول",
+       "date": "2026-04-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "bgys7xrk",
+       "name": "المقاول",
+       "date": "2026-04-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "tqa2vty7",
+       "name": "المقاول",
+       "date": "2026-04-19",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "tce20q7f",
+       "name": "المقاول",
+       "date": "2026-04-24",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "c6owbbtw",
+       "name": "المقاول",
+       "date": "2026-04-27",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "5o8co1mo",
+       "name": "المقاول",
+       "date": "2026-04-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "16a3htvn",
+       "name": "المقاول",
+       "date": "2026-05-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "rukdgilx",
+       "name": "المقاول",
+       "date": "2026-05-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "i6k18ucj",
+       "name": "المقاول",
+       "date": "2026-05-11",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "wb78lzwe",
+       "name": "المقاول",
+       "date": "2026-05-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "mw7jxbtd",
+       "name": "المقاول",
+       "date": "2026-05-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "byd0vwfx",
+       "name": "المقاول",
+       "date": "2026-05-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "zr3lec0g",
+       "name": "المقاول",
+       "date": "2026-05-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "3d8f5phw",
+       "name": "المقاول",
+       "date": "2026-05-22",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "s9ua16hu",
+       "name": "المقاول",
+       "date": "2026-05-24",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "larogr0l",
+       "name": "المقاول",
+       "date": "2026-05-27",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "6x366p6j",
+       "name": "المقاول",
+       "date": "2026-05-30",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hgz85zps",
+       "name": "المقاول",
+       "date": "2026-06-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "v3hxwy51",
+       "name": "المقاول",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "yl0oquzd",
+       "name": "المقاول",
+       "date": "2026-06-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      }
+     ]
+    },
+    {
+     "id": "wptof8kp",
+     "name": "الألمنيوم",
+     "total": 0,
+     "note": "",
+     "entries": [
+      {
+       "id": "6flgvhzt",
+       "name": "مقدم للألمنيوم والدرايش",
+       "date": "2026-04-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nnmqxu0f",
+       "name": "مع صاحب الألمنيوم",
+       "date": "2026-05-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "73evhkzw",
+       "name": "مع صاحب الألمنيوم",
+       "date": "2026-05-31",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ckpxb11a",
+       "name": "ألمنيوم البلكونة",
+       "date": "2026-06-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "webwrp76",
+       "name": "مع صاحب الألمنيوم",
+       "date": "2026-06-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      }
+     ]
+    },
+    {
+     "id": "pwjfix1d",
+     "name": "التشطيب",
+     "total": 0,
+     "note": "",
+     "entries": [
+      {
+       "id": "fafcgi43",
+       "name": "جبس وأغراض جبس",
+       "date": "2026-04-11",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hqcx7l5d",
+       "name": "قاشي وسكرتنق",
+       "date": "2026-04-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "fqyj6rti",
+       "name": "واتربروف",
+       "date": "2026-04-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "t2y4ebky",
+       "name": "هانقر حديد الجبس",
+       "date": "2026-04-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "yftcwlwo",
+       "name": "واتر بروف رولة وحدة",
+       "date": "2026-04-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "je0e4i1g",
+       "name": "بيبات كهرباء ومسامير جبس",
+       "date": "2026-04-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "dsgb19f3",
+       "name": "برايمر ومعجون",
+       "date": "2026-04-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "uj10820m",
+       "name": "اسمنت وقلو قاشي",
+       "date": "2026-04-22",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "70qbwhbv",
+       "name": "صبغ وأندركوت الجبس",
+       "date": "2026-04-25",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "dxq15myk",
+       "name": "جبس",
+       "date": "2026-04-28",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "1ry4pwia",
+       "name": "رمل للقاشي",
+       "date": "2026-04-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "w9nqk85p",
+       "name": "صبغ برع البيت",
+       "date": "2026-05-01",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "grhh24ps",
+       "name": "قلو وقراوت للقاشي",
+       "date": "2026-05-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "9j39xh38",
+       "name": "قلو للقاشي",
+       "date": "2026-05-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "bl9wif9h",
+       "name": "معجون",
+       "date": "2026-05-05",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "aegvc2si",
+       "name": "صبغ داخلي",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "828nqh5d",
+       "name": "كليبات جبس",
+       "date": "2026-05-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "78jmyiwe",
+       "name": "قاشي حوش",
+       "date": "2026-05-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "cip124hl",
+       "name": "قلو قاشي + ممسحة",
+       "date": "2026-05-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "h3dz59b6",
+       "name": "عازل أرضي",
+       "date": "2026-05-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "n2q3ojg1",
+       "name": "صبغ ومعجون",
+       "date": "2026-05-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "t9xrccai",
+       "name": "صبغ خارجي",
+       "date": "2026-05-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ec3771lu",
+       "name": "شانيل جبس",
+       "date": "2026-05-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "40x8wp6g",
+       "name": "معجون وقلو",
+       "date": "2026-05-17",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "zocaqn84",
+       "name": "قاشي الدرج",
+       "date": "2026-05-17",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "fnp1xf6j",
+       "name": "قلو قاشي",
+       "date": "2026-05-19",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "7mgg9gpr",
+       "name": "قاشي",
+       "date": "2026-05-21",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "6ycqidlh",
+       "name": "برايمر وأغراض بايفيتر",
+       "date": "2026-05-26",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "kqiisakl",
+       "name": "معجون وبرايمر ومراوح شفط وأغراض للكهربائي",
+       "date": "2026-06-02",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hbrjrhpn",
+       "name": "مع عامل الجبس",
+       "date": "2026-06-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "95if8sp0",
+       "name": "صبغ ومعجون وبروش",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "879wfcpk",
+       "name": "قلو",
+       "date": "2026-06-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "5k302nqq",
+       "name": "غطي مجاري + سبيسر قاشي",
+       "date": "2026-06-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "bjvudf0x",
+       "name": "شغل قاشي يومين",
+       "date": "2026-06-08",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "9l3dsbkn",
+       "name": "عازل ماء",
+       "date": "2026-06-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hmbplgwq",
+       "name": "صبغ وقلو",
+       "date": "2026-06-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      }
+     ]
+    },
+    {
+     "id": "i3ijpnaz",
+     "name": "الخشب",
+     "total": 0,
+     "note": "",
+     "entries": [
+      {
+       "id": "yp4xn7b4",
+       "name": "خشب وبليوت",
+       "date": "2026-03-30",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "yd3qbjra",
+       "name": "بليوت حق الدي بي",
+       "date": "2026-05-21",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "h2gdrvwy",
+       "name": "تنظيف الخشب",
+       "date": "2026-05-24",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      }
+     ]
+    },
+    {
+     "id": "p85v7j5t",
+     "name": "المواد",
+     "total": 0,
+     "note": "",
+     "entries": [
+      {
+       "id": "t6gut1uv",
+       "name": "الرمل",
+       "date": "2026-03-22",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "b0f0hrei",
+       "name": "الطابوق",
+       "date": "2026-03-22",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nyw45bd9",
+       "name": "حديد للنوافذ",
+       "date": "2026-03-24",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "o9g0lgga",
+       "name": "طن كنكري",
+       "date": "2026-03-25",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "1z9k6eil",
+       "name": "حديد",
+       "date": "2026-03-28",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "312szgyp",
+       "name": "اسمنت ورمل",
+       "date": "2026-03-28",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "gk981tx5",
+       "name": "550 طابوقة",
+       "date": "2026-03-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "82jkyrxx",
+       "name": "عمود حديد",
+       "date": "2026-03-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "y3vvhdsm",
+       "name": "كنكري وصبية",
+       "date": "2026-04-01",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "htjbnc4n",
+       "name": "اسمنت ورمل",
+       "date": "2026-04-01",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "kkb1cmfh",
+       "name": "أغراض بايفيتر وأغطية كهرباء",
+       "date": "2026-04-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ktrnuo62",
+       "name": "طنين كنكري",
+       "date": "2026-04-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "zaiyk8x1",
+       "name": "اسمنت وحديد",
+       "date": "2026-04-05",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nf79w03p",
+       "name": "بكسات سويشات كهرباء",
+       "date": "2026-04-05",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "crdlovg5",
+       "name": "رمل وجرس حديد",
+       "date": "2026-04-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "sy91xe2c",
+       "name": "اسمنت وحديد",
+       "date": "2026-04-07",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "d2u3sji3",
+       "name": "450 طابوقة",
+       "date": "2026-04-08",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "oycm652e",
+       "name": "سكسويل رمل",
+       "date": "2026-04-08",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "n2p7pqj1",
+       "name": "وايرات كهرباء",
+       "date": "2026-04-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "2lfrdwir",
+       "name": "أدوات بايفيتر",
+       "date": "2026-04-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "r7azdcvy",
+       "name": "وايرات المكيفات",
+       "date": "2026-04-11",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "r89yb91j",
+       "name": "وايرات كهرباء",
+       "date": "2026-04-11",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "d6s6ct1d",
+       "name": "20 كيس أسمنت",
+       "date": "2026-04-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nkfyrssf",
+       "name": "بيبات للوايرات وكنكتات",
+       "date": "2026-04-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "skdots1s",
+       "name": "رمل وسوكيتات",
+       "date": "2026-04-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "lmqry3ap",
+       "name": "وايرات مقاس 2.5 إنج",
+       "date": "2026-04-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "qoa4w5jy",
+       "name": "تحويل الاسم",
+       "date": "2026-04-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "di13uyoz",
+       "name": "المكتب العقاري الدلال",
+       "date": "2026-04-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "9z8gr1d5",
+       "name": "أسلاك كهرباء",
+       "date": "2026-04-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "w1ir63hb",
+       "name": "وايرات كهرباء الدور الأرضي",
+       "date": "2026-04-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "dhgez80g",
+       "name": "بوكسات كهرباء",
+       "date": "2026-04-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "oyafyru0",
+       "name": "وايرات كهرباء",
+       "date": "2026-04-20",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "m35rec4h",
+       "name": "سكسويل رمل",
+       "date": "2026-04-20",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "qmbwqdon",
+       "name": "اسمنت",
+       "date": "2026-04-20",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ts6ctkau",
+       "name": "سكسويل رمل",
+       "date": "2026-04-21",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "4r65n0du",
+       "name": "15 كيس اسمنت",
+       "date": "2026-04-23",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "g8ha9de5",
+       "name": "سكسويل رمل",
+       "date": "2026-04-25",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "js27sv1p",
+       "name": "مواسير كهرباء",
+       "date": "2026-04-28",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "794bgi5b",
+       "name": "20 كيس اسمنت",
+       "date": "2026-04-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "0wckr50i",
+       "name": "حاوية",
+       "date": "2026-04-29",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nlb99mbk",
+       "name": "20 كيس اسمنت",
+       "date": "2026-05-02",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "up237pn6",
+       "name": "طابوق",
+       "date": "2026-05-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "8h9ko0t5",
+       "name": "سكسويل رمل",
+       "date": "2026-05-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "zrk831oo",
+       "name": "بايفيتر",
+       "date": "2026-05-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "5y1x9p9y",
+       "name": "توصيل توكيل",
+       "date": "2026-05-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "scici7n1",
+       "name": "مواد بايفيتر",
+       "date": "2026-05-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "q07wmjyt",
+       "name": "محول كهرباء",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "yis07glg",
+       "name": "اسمنت بورد خارجي",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hv0kr5je",
+       "name": "20 كيس اسمنت وسكسويل رمل",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "tylsavvh",
+       "name": "توصيل اسمنت بورد",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "isdlx1wq",
+       "name": "أغراض بايفيتر",
+       "date": "2026-05-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "r5l3p5nk",
+       "name": "100 طابوقة",
+       "date": "2026-05-10",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "kf639p26",
+       "name": "20 كيس اسمنت وبيبات قزوز فان وأغراضهم",
+       "date": "2026-05-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "uqrzx04r",
+       "name": "سكسويل رمل",
+       "date": "2026-05-12",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "akg0jrgh",
+       "name": "مواد بايفيتر",
+       "date": "2026-05-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "7xcta4cm",
+       "name": "كور مروحة شفط",
+       "date": "2026-05-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "7ctqyjy1",
+       "name": "بيبات كهرباء",
+       "date": "2026-05-13",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "qmqjolgw",
+       "name": "مسامير",
+       "date": "2026-05-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "1xaj5uq5",
+       "name": "حاوية",
+       "date": "2026-05-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "jsxl5t4r",
+       "name": "كليبات بايفيتر",
+       "date": "2026-05-14",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "z07t6u46",
+       "name": "75 ليت",
+       "date": "2026-05-15",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "vhu27ln7",
+       "name": "بربر معدات",
+       "date": "2026-05-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "1b08rz7d",
+       "name": "العمال اللي شالو المخزن فس السطح",
+       "date": "2026-05-16",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "919rzg8r",
+       "name": "كليبات",
+       "date": "2026-05-17",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "w97a14t1",
+       "name": "سكسويل رمل و20 كيس اسمنت",
+       "date": "2026-05-18",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "kju7v2lk",
+       "name": "شغل طبلون الكهرباء",
+       "date": "2026-05-19",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "sou7rows",
+       "name": "سكسويل رمل",
+       "date": "2026-05-21",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ecubt82q",
+       "name": "اسمنت وأغراض بايفيتر",
+       "date": "2026-05-22",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "3gfjsl9q",
+       "name": "غدا العمال",
+       "date": "2026-05-23",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "f59tggjb",
+       "name": "سكسويل رمل",
+       "date": "2026-05-24",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ivu6usrv",
+       "name": "تنظيف",
+       "date": "2026-05-25",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "w9my297d",
+       "name": "اسمنت",
+       "date": "2026-05-26",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "cmufrrrh",
+       "name": "نقل سقالات",
+       "date": "2026-05-26",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "4nyifl62",
+       "name": "بيبات",
+       "date": "2026-05-27",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "ff948v0m",
+       "name": "وايرات كهرباء 3 فيس",
+       "date": "2026-05-30",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "0y51ymr3",
+       "name": "مع الكهربائي",
+       "date": "2026-05-30",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "hhhu63v5",
+       "name": "اسمنت ورمل",
+       "date": "2026-05-31",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "fjkyz1us",
+       "name": "أغراض الكهربائي",
+       "date": "2026-05-31",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "t3n8jmhg",
+       "name": "مع الكهربائي ولير",
+       "date": "2026-05-31",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "m2twkr3v",
+       "name": "بيبات ألمنيوم للمراوح",
+       "date": "2026-06-02",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "4s5299tq",
+       "name": "مع الكهربائي",
+       "date": "2026-06-02",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "nha0zkcv",
+       "name": "أغراض للبايفيتر",
+       "date": "2026-06-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "xl27cqx0",
+       "name": "الثين دي في للكهرباء",
+       "date": "2026-06-03",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "r5swqyaz",
+       "name": "مع الكهربائي",
+       "date": "2026-06-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "prl9w9nn",
+       "name": "سخانات ودينمو وأغراض بايفيتر",
+       "date": "2026-06-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "0uvu15ex",
+       "name": "عامل البايفيتر",
+       "date": "2026-06-04",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "zr33wyat",
+       "name": "أغراض البايفيتر",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "1bc24sws",
+       "name": "إزالة السقالات",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "8ly2tdd8",
+       "name": "تفصيل رقم للبيت",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "329ezyec",
+       "name": "جرس الباب + واير 14 متر",
+       "date": "2026-06-06",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "gfalb986",
+       "name": "شغل بايفيتر يومين",
+       "date": "2026-06-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      },
+      {
+       "id": "u0y08jjn",
+       "name": "تسجيل البيت ملكية العقار",
+       "date": "2026-06-09",
+       "amount": "",
+       "start": "",
+       "end": "",
+       "note": "",
+       "by": ""
+      }
+     ]
+    }
+   ],
+   "split5": true
+  }
+ ]
+}
